@@ -1,0 +1,45 @@
+The Pythagorean Theorem is a fundamental relation in Euclidean geometry between the three sides of a right triangle. It states that the area of the square whose side is the hypotenuse (the side opposite the right angle) is equal to the sum of the areas of the squares on the other two sides.
+
+The Pythagorean Theorem can be proved using a variety of methods, including:
+
+* **Using the area of a square**
+
+Consider a right triangle with legs of length a and b and hypotenuse of length c. If we draw squares on each side of the triangle, we get the following:
+
+[Image of a right triangle with squares on each side]
+
+The area of the square on the hypotenuse is c². The area of each of the squares on the legs is a² and b². Therefore, the total area of the four squares is a² + b² + c².
+
+However, we can also see that the four squares can be combined to form a larger square with side length c. The area of this larger square is also c².
+
+Since the area of the four squares is equal to the area of the larger square, we have:
+
+```
+a² + b² + c² = c²
+```
+
+* **Using the law of cosines**
+
+The law of cosines states that in a triangle with sides of length a, b, and c, and angle A opposite side a, the following equation holds:
+
+```
+c² = a² + b² - 2ab cos(A)
+```
+
+If we set A = 90°, the law of cosines reduces to the Pythagorean Theorem:
+
+```
+c² = a² + b² - 2ab cos(90°)
+```
+
+```
+c² = a² + b²
+```
+
+* **Using the Pythagorean triple**
+
+A Pythagorean triple is a set of three positive integers a, b, and c such that a² + b² = c². Some examples of Pythagorean triples are (3, 4, 5), (5, 12, 13), and (7, 24, 25).
+
+The Pythagorean Theorem can be proved using the fact that any set of three integers that forms a Pythagorean triple satisfies the equation a² + b² = c².
+
+The Pythagorean Theorem is one of the most important theorems in mathematics. It has been used for centuries to solve problems in geometry, trigonometry, and other areas of mathematics. The theorem is also used in many practical applications, such as surveying, construction, and navigation.
