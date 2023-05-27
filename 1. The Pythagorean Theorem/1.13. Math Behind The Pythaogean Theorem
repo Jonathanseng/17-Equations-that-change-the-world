@@ -1,0 +1,29 @@
+The Pythagorean theorem is a mathematical equation that relates the lengths of the sides of a right triangle. It states that the square of the hypotenuse (the longest side of the triangle) is equal to the sum of the squares of the other two sides.
+
+The Pythagorean theorem can be expressed mathematically as:
+
+```
+a^2 + b^2 = c^2
+```
+
+where:
+
+* a and b are the lengths of the legs of the triangle
+* c is the length of the hypotenuse
+
+The Pythagorean theorem can be proved using a variety of methods, including:
+
+* **Geometric proof:** This proof uses the properties of right triangles to show that the equation is true.
+* **Algebraic proof:** This proof uses the properties of squares and square roots to show that the equation is true.
+* **Numerical proof:** This proof uses the fact that the equation is true for a specific set of values of a, b, and c to show that it is true for all values of a, b, and c.
+
+The Pythagorean theorem is a fundamental equation in mathematics and has many applications in geometry, trigonometry, and other areas of mathematics. It is also used in many practical applications, such as surveying, construction, and navigation.
+
+Here are some examples of how the Pythagorean theorem can be used:
+
+* To find the length of the hypotenuse of a right triangle, given the lengths of the other two sides.
+* To find the length of one side of a right triangle, given the lengths of the other two sides and the length of the hypotenuse.
+* To determine if a triangle is a right triangle.
+* To calculate the area of a right triangle.
+
+The Pythagorean theorem is a powerful tool that can be used to solve a variety of problems. It is an essential part of the mathematical toolkit and is used by mathematicians, engineers, architects, and other professionals in a variety of fields.
