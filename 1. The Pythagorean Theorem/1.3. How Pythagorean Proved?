@@ -1,0 +1,34 @@
+The Pythagorean theorem can be proved in a variety of ways. Here is one geometric proof:
+
+1. Draw a right triangle with legs of length a and b and hypotenuse of length c.
+2. Draw a square with side length a + b.
+3. Divide the square into four right triangles, each with legs of length a and b.
+4. The four right triangles together form the original right triangle.
+5. The area of the square is (a + b)^2.
+6. The area of each of the four right triangles is (1/2)ab.
+7. The total area of the four right triangles is 2ab.
+8. Therefore, the area of the square is equal to the total area of the four right triangles.
+9. This means that (a + b)^2 = 2ab.
+10. Expanding (a + b)^2 gives a^2 + 2ab + b^2.
+11. Subtracting 2ab from both sides gives a^2 + b^2 = c^2.
+
+This proves that the Pythagorean theorem is true.
+
+Here is an algebraic proof:
+
+1. Let a and b be the lengths of the legs of a right triangle and c be the length of the hypotenuse.
+2. We can square both sides of the equation a^2 + b^2 = c^2 to get a^4 + 2ab^2 + b^4 = c^4.
+3. We can then factor the left-hand side of the equation to get (a^2 + b^2)^2 = c^4.
+4. Since (a^2 + b^2)^2 is always positive, c^4 must also be positive.
+5. Therefore, c^2 must be equal to a^2 + b^2.
+
+This proves that the Pythagorean theorem is true.
+
+Here is a numerical proof:
+
+1. Choose any three positive integers, a, b, and c, such that a^2 + b^2 = c^2.
+2. Construct a right triangle with legs of length a and b and hypotenuse of length c.
+3. Measure the lengths of the sides of the triangle using a ruler or other measuring device.
+4. You will find that the measurements of the sides of the triangle are consistent with the Pythagorean theorem.
+
+This proves that the Pythagorean theorem is true for at least one set of values of a, b, and c. Since the Pythagorean theorem is a mathematical equation, it must be true for all sets of values of a, b, and c.
