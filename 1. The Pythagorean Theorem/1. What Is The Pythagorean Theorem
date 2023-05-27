@@ -1,0 +1,17 @@
+The Pythagorean Theorem is a fundamental relation in Euclidean geometry between the three sides of a right triangle. It states that the area of the square whose side is the hypotenuse (the side opposite the right angle) is equal to the sum of the areas of the squares on the other two sides.
+
+In algebraic terms, the theorem can be written as:
+
+```
+a² + b² = c²
+```
+
+where a and b are the lengths of the legs of the triangle and c is the length of the hypotenuse.
+
+The Pythagorean Theorem can be proved using a variety of methods, including:
+
+* Using the area of a square
+* Using the law of cosines
+* Using the Pythagorean triple
+
+The Pythagorean Theorem is one of the most important theorems in mathematics. It has been used for centuries to solve problems in geometry, trigonometry, and other areas of mathematics. The theorem is also used in many practical applications, such as surveying, construction, and navigation.
