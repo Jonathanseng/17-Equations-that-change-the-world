@@ -1,0 +1,19 @@
+A logarithm is a mathematical function that takes an input number and returns the power to which another number, the base, must be raised to equal the input number. For example, the logarithm of 100 to the base 10 is 2, because 10 raised to the power of 2 is 100.
+
+Logarithms can be used to solve equations, find the roots of polynomials, and calculate powers and roots. They are also used in many scientific and engineering applications, such as calculating decibels, pH levels, and Richter magnitudes.
+
+Here are some of the basic rules of logarithms:
+
+* The logarithm of a product is the sum of the logarithms of the factors. For example, log(100 x 100) = log(100) + log(100) = 2 + 2 = 4.
+* The logarithm of a quotient is the difference of the logarithms of the dividend and divisor. For example, log(100/10) = log(100) - log(10) = 2 - 1 = 1.
+* The logarithm of a power is the exponent multiplied by the logarithm of the base. For example, log(1000) = 3 x log(10) = 3.
+* The logarithm of a negative number is imaginary. For example, log(-10) = i x log(10) = i.
+
+Logarithms can be written in two ways:
+
+* In exponential form, log(100) = 2.
+* In logarithmic form, 2 = log(100).
+
+The exponential form is more common in mathematics, while the logarithmic form is more common in computer science.
+
+Logarithms are a powerful tool that can be used to solve a variety of problems. They are an essential part of mathematics and science, and they are used in many everyday applications.
