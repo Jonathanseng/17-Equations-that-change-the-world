@@ -1,0 +1,31 @@
+The wave equation is a second-order linear partial differential equation that describes the propagation of waves in a medium. It is a fundamental equation in physics, and it has many applications in other fields, such as engineering, acoustics, and seismology.
+
+The wave equation can be written in a number of different ways, but the most general form is:
+
+```
+u_tt = c^2 u_xx
+```
+
+where:
+
+* `u` is the wave function, which describes the displacement of the medium at a point in space and time.
+* `t` is time.
+* `x` is the spatial coordinate.
+* `c` is the speed of the wave.
+
+The wave equation can be derived from the principle of conservation of energy. It can also be derived from the equations of motion for a medium.
+
+The wave equation has many solutions, which represent different types of waves. Some of the most common types of waves that are described by the wave equation include:
+
+* **Transverse waves:** These waves propagate perpendicular to the direction of the wave motion. Examples of transverse waves include water waves and seismic S waves.
+* **Longitudinal waves:** These waves propagate parallel to the direction of the wave motion. Examples of longitudinal waves include sound waves and seismic P waves.
+* **Surface waves:** These waves propagate along the interface between two media. Examples of surface waves include ocean waves and seismic Rayleigh waves.
+
+The wave equation is a powerful tool for understanding the propagation of waves. It can be used to predict the behavior of waves in different media, and it can be used to design devices that interact with waves.
+
+Here are some additional things to know about the wave equation:
+
+* The wave equation is a linear equation, which means that the sum of two solutions to the wave equation is also a solution to the wave equation.
+* The wave equation is a partial differential equation, which means that it involves partial derivatives of the wave function.
+* The wave equation is a second-order equation, which means that it involves second-order partial derivatives of the wave function.
+
