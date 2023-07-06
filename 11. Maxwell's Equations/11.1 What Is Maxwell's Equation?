@@ -1,0 +1,36 @@
+Maxwell's equations are a set of four partial differential equations that form the foundation of classical electromagnetism, classical optics, and electric circuits. They were first formulated by the Scottish physicist James Clerk Maxwell in the 1860s.
+
+The four Maxwell equations are:
+
+1. **Gauss's law for electric fields** states that the divergence of the electric field is equal to the electric charge density.
+2. **Gauss's law for magnetic fields** states that the divergence of the magnetic field is equal to zero.
+3. **Faraday's law of induction** states that the curl of the electric field is equal to the negative of the time derivative of the magnetic field.
+4. **Ampère's circuital law** states that the curl of the magnetic field is equal to the electric current density plus the displacement current.
+
+These equations can be used to describe a wide range of electromagnetic phenomena, including electric fields, magnetic fields, light, and electromagnetic waves. They have also been used to develop many important technologies, such as radio, television, and lasers.
+
+Here is a table of the four Maxwell equations in both differential and integral form:
+
+| Equation | Differential form | Integral form |
+|---|---|---|
+| Gauss's law for electric fields | ∇⋅E = ρ | ∮ E⋅dA = Qencl |
+| Gauss's law for magnetic fields | ∇⋅B = 0 | ∮ B⋅dA = 0 |
+| Faraday's law of induction | ∇×E = −dB/dt | ∮ E⋅dl = −∫ B⋅dS |
+| Ampère's circuital law | ∇×B = μ0(J + dD/dt) | ∮ B⋅dl = μ0Iencl + ∫ D⋅dS |
+
+Where:
+
+* E is the electric field
+* B is the magnetic field
+* ρ is the electric charge density
+* J is the current density
+* D is the electric displacement field
+* μ0 is the permeability of free space
+* ∇⋅ is the divergence operator
+* ∇× is the curl operator
+* ∮ is the line integral
+* dA is the area element
+* dl is the line element
+* Qencl is the enclosed charge
+* Iencl is the enclosed current
+
