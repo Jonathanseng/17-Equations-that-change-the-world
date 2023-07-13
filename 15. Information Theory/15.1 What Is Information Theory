@@ -1,0 +1,21 @@
+Information theory is the mathematical study of the quantification, storage, and communication of information. It is a branch of applied mathematics, at the intersection of probability theory, statistics, computer science, statistical mechanics, information engineering, and electrical engineering.
+
+The main objective of information theory is to quantify the amount of information in a message, and to develop efficient methods for storing and transmitting that information. A key measure in information theory is entropy, which quantifies the amount of uncertainty involved in the value of a random variable or the outcome of a random process.
+
+Information theory has a wide range of applications, including:
+
+* **Communication systems:** Information theory is used to design and optimize communication systems, such as telephone networks, computer networks, and wireless networks.
+* **Data compression:** Information theory is used to develop efficient methods for compressing data, such as JPEG images and MP3 audio files.
+* **Cryptography:** Information theory is used to develop secure cryptographic algorithms, such as those used to protect financial transactions and sensitive communications.
+* **Machine learning:** Information theory is used to develop machine learning algorithms, such as those used to classify images and predict customer behavior.
+
+Information theory is a powerful tool for understanding and manipulating information. It has had a major impact on the development of modern communication, computing, and cryptography.
+
+Here are some of the key concepts in information theory:
+
+* **Entropy:** The entropy of a random variable is a measure of the uncertainty involved in its value.
+* **Redundancy:** Redundancy is the amount of unnecessary information in a message.
+* **Channel capacity:** The channel capacity of a communication channel is the maximum amount of information that can be transmitted through the channel without errors.
+* **Error correction:** Error correction is the process of detecting and correcting errors in a message that has been transmitted through a noisy channel.
+
+Information theory is a complex and challenging field, but it is also a very rewarding one. It provides a deep understanding of the nature of information, and it has led to the development of many powerful tools for manipulating information.
